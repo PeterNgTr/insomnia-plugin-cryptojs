@@ -1,11 +1,8 @@
 {
   "name": "insomnia-plugin-cryptojs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "insomnia plugin cryptojs",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "cryptojs",
     "insomnia"
@@ -14,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "crypto-js": "^4.1.1"
+  },
+  "insomnia": {
+    "name": "cryptoJS-tamara",
+    "description": "crypt encryption plugin for Insomnia REST Client"
   }
 }
