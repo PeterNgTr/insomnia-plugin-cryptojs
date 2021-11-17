@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-cryptojs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "insomnia plugin cryptojs",
   "main": "main.js",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "author": "peterngtr",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "crypto-js": "^4.1.1"
   },
   "insomnia": {
